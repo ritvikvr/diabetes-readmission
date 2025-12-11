@@ -185,7 +185,7 @@ The pipeline chooses the model (Logistic Regression or Random Forest) that achie
 
 ## Author
 
-Ritvik Verma (@ritvikvr)
+Ritvik(@ritvikvr)
 
 ## License
 
